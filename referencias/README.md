@@ -1,0 +1,1 @@
+Anotações a respeito de referências, como referências imutáveis e mutáveis se diferem e como manipular referências mutáveis.
