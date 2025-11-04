@@ -20,8 +20,18 @@ module tipos_primitivos::tipos_primitivos {
         - signer: tipo de recurso que permite com que uma ação seja feita no nome de um endereço
     */
 
+    const VAR1: u64 = 10;
+
     fun tiposPrimitivos() {
-        
+        let var2 = 20;
+
+        print(&VAR1);
+        print(&var2);
+
+        let isEqual = VAR1 == var2;
+        let isHigher = VAR1 > var2;
+        let isEqualAndHigher = isEqual && isHigher;
+        print(&isEqualAndHigher);
     }
 
     #[test]
