@@ -5,7 +5,7 @@
 <h1 align="center">Sui Move Bootcamp - Novembro/25</h1>
 
 <h3>Conteúdo</h3>
-Este repositório contém exercícios e projetos que desenvolvi durante as aulas oferecidas pela Sui Brasil por parte do Sui Move Bootcamp de Novembro de 2025.
+Este repositório contém soluções de exercícios e projetos que desenvolvi durante as aulas oferecidas pela Sui Brasil por parte do Sui Move Bootcamp de Novembro de 2025.
 
 <h3>Créditos</h3>
 
