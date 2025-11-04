@@ -1,0 +1,1 @@
+Anotações a respeito das formas de declarar variáveis em Move e como eles se diferem.
