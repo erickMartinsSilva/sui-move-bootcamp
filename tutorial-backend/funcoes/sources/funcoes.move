@@ -67,11 +67,17 @@ module funcoes::test_funcoes3 {
         return 100 // não precisamos retornar explicitamente, mas podemos.
     }
 
+    #[test_only]
+    use std::string::utf8;
+
     #[test]
     fun test() {
         parametros(10, false);
-        retorno_multiplo();
-        retorno_explicito();
+        let (nome, numero) = retorno_multiplo();
+        print(&utf8(nome));
+        print(&numero);
+        let num = retorno_explicito();
+        print(&num);
     }
 }
 
