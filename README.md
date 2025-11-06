@@ -5,7 +5,12 @@
 <h1 align="center">Sui Move Bootcamp - Novembro/25</h1>
 
 <h3>Conteúdo</h3>
+
 Este repositório contém soluções de exercícios e projetos que desenvolvi durante as aulas oferecidas pela Sui Brasil por parte do Sui Move Bootcamp de Novembro de 2025.
+
+<h3>Estrutura do Repositório</h3>
+
+- `tutorial-backend`: Pasta contendo códigos e exercícios escritos com base no repositório [sui-first-steps](https://github.com/AguaPotavel/sui-first-steps) com o objetivo de apresentar, de forma introdutória, conceitos básicos de programação na linguagem Move.
 
 <h3>Créditos</h3>
 
