@@ -12,8 +12,9 @@ Este repositório contém anotações, resoluções de exercícios e projetos es
 
 Atualmente, o repositório conta com as seguintes pastas:
 
-- `tutorial-backend`: Pasta contendo códigos e exercícios escritos com base no repositório [sui-first-steps](https://github.com/AguaPotavel/sui-first-steps) com o objetivo de apresentar, de forma introdutória, conceitos básicos de programação na linguagem Move.
+- `tutorial-backend`: Pasta contendo anotações e soluções de desafios feitos com base no repositório [sui-first-steps](https://github.com/AguaPotavel/sui-first-steps) com o objetivo de apresentar, de forma introdutória, conceitos básicos de programação na linguagem Move.
+- `exercicios`: Pasta contendo resoluções em Move feitas com base nos exercícios propostos pelo repositório [sui-bootcamp-aulas](https://github.com/AguaPotavel/sui-bootcamp-aulas).
 
 <h3>Créditos</h3>
 
-Boa parte das soluções deste repositório foram feitas com base nos exercícios oferecidos pelo repositório [sui-first-steps](https://github.com/AguaPotavel/sui-first-steps), traduzido por [AguaPotavel](https://github.com/AguaPotavel) e originalmente criado por [WayLearnLatam](https://github.com/WayLearnLatam).
+Boa parte das anotações e soluções deste repositório foram feitas com base nos desafios oferecidos pelo repositório [sui-first-steps](https://github.com/AguaPotavel/sui-first-steps), traduzido por [AguaPotavel](https://github.com/AguaPotavel) e originalmente criado por [WayLearnLatam](https://github.com/WayLearnLatam), e pelo repositório [sui-bootcamp-aulas](https://github.com/AguaPotavel/sui-bootcamp-aulas), feito por [AguaPotavel](https://github.com/AguaPotavel).
