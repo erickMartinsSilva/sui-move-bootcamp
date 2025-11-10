@@ -17,4 +17,6 @@ Atualmente, o repositório conta com as seguintes pastas:
 
 <h3>Créditos</h3>
 
-Boa parte das anotações e soluções deste repositório foram feitas com base nos desafios oferecidos pelo repositório [sui-first-steps](https://github.com/AguaPotavel/sui-first-steps), traduzido por [AguaPotavel](https://github.com/AguaPotavel) e originalmente criado por [WayLearnLatam](https://github.com/WayLearnLatam), e pelo repositório [sui-bootcamp-aulas](https://github.com/AguaPotavel/sui-bootcamp-aulas), feito por [AguaPotavel](https://github.com/AguaPotavel).
+As anotações e soluções deste repositório foram feitas com base nos repositórios:
+- [sui-first-steps](https://github.com/AguaPotavel/sui-first-steps), traduzido por [AguaPotavel](https://github.com/AguaPotavel) e originalmente criado por [WayLearnLatam](https://github.com/WayLearnLatam);
+- [sui-bootcamp-aulas](https://github.com/AguaPotavel/sui-bootcamp-aulas), feito por [AguaPotavel](https://github.com/AguaPotavel).
